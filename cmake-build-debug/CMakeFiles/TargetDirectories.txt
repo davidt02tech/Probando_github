@@ -1,0 +1,3 @@
+C:/Users/luis_/UTEC/Cursos_UTEC/Progra_III_2022_2/Probando_github/cmake-build-debug/CMakeFiles/Probando_github.dir
+C:/Users/luis_/UTEC/Cursos_UTEC/Progra_III_2022_2/Probando_github/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luis_/UTEC/Cursos_UTEC/Progra_III_2022_2/Probando_github/cmake-build-debug/CMakeFiles/rebuild_cache.dir
